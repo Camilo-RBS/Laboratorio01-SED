@@ -536,3 +536,4 @@
   
   El Ciclo de Vida del Desarrollo de Software Seguro (SSDLC) integra la seguridad en todas las fases del desarrollo de software tradicional: planificación, análisis de requisitos, diseño, implementación, pruebas, y despliegue y mantenimiento. No es un proceso lineal, sino un ciclo continuo que busca anticipar y prevenir vulnerabilidades en lugar de detectarlas solo al final, lo que es crucial para adaptarse a un panorama de amenazas en constante cambio. 
 
+.
